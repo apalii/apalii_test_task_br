@@ -1,3 +1,6 @@
 # apalii_test_task_br
 
-Test task
+development server : 
+```
+python main.py
+```
